@@ -1,4 +1,5 @@
 # Apsis
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![Version](https://img.shields.io/badge/version-1.6.0-blue.svg)
 ## ----- EN -----
 ### Application Features
 The application uses accessibility features to detect opened applications, scan the components on the screen, and if it detects a prohibited object, it goes back and prevents the video from playing.
@@ -9,8 +10,8 @@ There's also a switch in older Instagram versions that searches for components t
 The application detects Isnstagram, TikTok, or YouTube from packages like "com.instagram.android" and continuously scans the screen to find the specified components, such as "com.instagram.android:id/comment_button".
 Due to version differences and to ensure greater stability, it checks multiple components.
 ### Those who contributed
-- Software: [https://crext3n.xyz/](https://crext3n.xyz/)
-- App icon: [https://www.instagram.com/bariis.eroglu](@bariis.eroglu)
+- Software: ![https://crext3n.xyz/](https://crext3n.xyz/)
+- App icon: ![https://www.instagram.com/bariis.eroglu](@bariis.eroglu)
 
 ## License
 This project is licensed under the MIT License — see the LICENSE file for details.
@@ -25,8 +26,8 @@ Aynı zamanda eski instagram sürümleri içinde bir switch bulunuyor bu sayede 
 Uygulama isntagram,tiktok veya youtube un açıldığını "com.instagram.android" gibi paketlerden buluyor; ve belirlenen componentleri bulmak için ekranı sürekli tarıyor mesela "com.instagram.android:id/comment_button".
 Sürüm farkları nedeniyle ve daha kararlı olması için birden fazla componenti kontrol ediyor.
 ### Emeği geçenler
-- Yazılım: [https://crext3n.xyz/](https://crext3n.xyz/)
-- Logo: [https://www.instagram.com/bariis.eroglu](@bariis.eroglu)
+- Yazılım: ![https://crext3n.xyz/](https://crext3n.xyz/)
+- Logo: ![https://www.instagram.com/bariis.eroglu](@bariis.eroglu)
 
 ## Lisans
 Bu proje MIT Lisansı kapsamında lisanslanmıştır; ayrıntılar için LICENSE dosyasına bakın.
