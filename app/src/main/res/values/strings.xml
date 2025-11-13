@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Apsis</string>
+    <string name="accessibility_service_description">❗❗ Bu izni ekranınızda kısa video tespit edilince engellemek için istiyoruz ❗❗</string>
+    <string name="l_tfen_pin_girin">Lütfen PIN girin</string>
+    <string name="onayla">Onayla</string>
+    <string name="pin_olu_turmak_i_in_butona_uzun_bas">PIN oluşturmak için butona uzun basın</string>
+</resources>
