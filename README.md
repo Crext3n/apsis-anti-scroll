@@ -12,6 +12,9 @@ Due to version differences and to ensure greater stability, it checks multiple c
 - Software: [https://crext3n.xyz/](https://crext3n.xyz/)
 - App icon: [https://www.instagram.com/bariis.eroglu](@bariis.eroglu)
 
+## License
+This project is licensed under the MIT License — see the LICENSE file for details.
+
 ## ----- TR -----
 ### Uygulamanın özellikleri
 Uygulama erişilebilirlik özelliğini kullanarak açılan uygulamayı tespit ediyor, ekrandaki componentleri tarıyor, eğer yasaklanan bir nesne bulursa geri gidiyor ve o videoyu izlettirmiyor.
@@ -24,3 +27,6 @@ Sürüm farkları nedeniyle ve daha kararlı olması için birden fazla componen
 ### Emeği geçenler
 - Yazılım: [https://crext3n.xyz/](https://crext3n.xyz/)
 - Logo: [https://www.instagram.com/bariis.eroglu](@bariis.eroglu)
+
+## Lisans
+Bu proje MIT Lisansı kapsamında lisanslanmıştır; ayrıntılar için LICENSE dosyasına bakın.
